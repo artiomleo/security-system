@@ -1,0 +1,5 @@
+{
+    "database": "postgres://artiom:artiom@localhost:5432/security",
+    "password": "artiom",
+    "logging": "false"
+}

@@ -1,0 +1,17 @@
+.false {
+    margin: 5px auto;
+    width: 12px;
+    height: 12px ;
+    background-color: #f00;
+    border-radius: 50% ;
+    box-shadow: #ff0000 0 -1px 3px 2px, inset #ff0000 0 -1px 5px 1px, #ff0000 0 0px 12px 1px;
+}
+
+.true{
+    margin: 5px auto;
+    width: 12px;
+    height: 12px;
+    background-color: #10ff00;
+    border-radius: 50%;
+    box-shadow: rgba(94, 189, 35, 0.87) 0 -1px 13px 0px, #92ff3f 0px 0px 8px 5px, #84ff28 0 2px 12px;
+}
